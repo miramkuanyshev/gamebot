@@ -33,9 +33,8 @@ body {
 }
 
 .answer {
-    display: none;
     width: 1000px;
-    margin: 300px auto;
+    margin: 115px auto 0px auto;
     display: flex;
     justify-content: flex-end;
 
