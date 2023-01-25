@@ -1,0 +1,50 @@
+body {
+    background-color: black;
+}
+
+.container {
+    width: 320px;
+    margin: 0 auto;
+    padding-top: 200px;
+    
+}
+.title {
+    font-size: 25px;
+    color: #fff;
+    text-align: center;
+    align-items: center;
+}
+
+.input-number {
+    width: 200px;
+    margin: 0px 50px;
+    padding: 10px 5px;
+    font-size: 25px;
+}
+
+.button {
+    color: #fff;
+    outline: none;
+    border: none;
+    background-color: black;
+    padding: 5px 10px;
+    margin-top: 10px;
+    margin-left: 105px;
+}
+
+.answer {
+    display: none;
+    width: 1000px;
+    margin: 300px auto;
+    display: flex;
+    justify-content: flex-end;
+
+}
+
+.answer-img__item {
+    width: 600px;
+}
+
+.win-img {
+    
+}
